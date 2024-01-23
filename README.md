@@ -22,7 +22,15 @@ Here is a Demo : [Demo](https://impossible-waistcoat-yak.cyclic.app/)
 ## Overview
 
 ### Screentshots
+![Demo](https://github.com/alok8756/MERN_ECOMMERCE_ALOK_2024/blob/main/Screenshot%202024-01-24%20012450.png)
 
+
+
+![Demo](https://github.com/alok8756/MERN_ECOMMERCE_ALOK_2024/blob/main/Screenshot%202024-01-24%20012527.png)
+
+
+
+![Demo](https://github.com/alok8756/MERN_ECOMMERCE_ALOK_2024/blob/main/Screenshot%202024-01-24%20012035.png)
 ### The challenge
 
 Users should be able to:
